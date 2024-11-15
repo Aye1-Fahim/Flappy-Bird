@@ -1,6 +1,6 @@
 # Flappy Bird Game
 
-![Flappy Bird Banner]()
+![Flappy Bird Banner](https://raw.githubusercontent.com/Aye1-Fahim/Flappy-Bird/refs/heads/main/Screenshots/Screenshot%202024-11-15%20162819.png)
 
 Welcome to **Flappy Bird Game**! 🎮 This is a web-based version of the classic Flappy Bird game built with **JavaScript**, **HTML**, and **CSS**. Help the bird navigate through pipes by jumping, and try to score as high as you can!
 
@@ -27,8 +27,8 @@ Welcome to **Flappy Bird Game**! 🎮 This is a web-based version of the classic
 
 ## Screenshots 📸
 
-![Gameplay Screenshot](https://your-image-link.com/screenshot1.jpg)
-![Game Over Screenshot](https://your-image-link.com/screenshot2.jpg)
+![Gameplay Screenshot](https://raw.githubusercontent.com/Aye1-Fahim/Flappy-Bird/refs/heads/main/Screenshots/Screenshot%202024-11-15%20162845.png)
+![Game Over Screenshot](https://raw.githubusercontent.com/Aye1-Fahim/Flappy-Bird/refs/heads/main/Screenshots/Screenshot%202024-11-15%20161228.png)
 
 ## License 📝
 
